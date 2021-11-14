@@ -1,0 +1,372 @@
+body{
+    margin: 0px;
+    margin-top: -5px;
+}
+
+#backvideo{
+    width: 100vw;
+    height: 100vw;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#backvideo2{
+    width: 100vw;
+    height: 100vw;
+    top: -5px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#backvideo3{
+    width: 100vw;
+    height: 100vw;
+    top: -5px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#backvideo4{
+    width: 100vw;
+    height: 100vw;
+    top: -5px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#backvideo5{
+    width: 100vw;
+    height: 100vw;
+    top: -5px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#finimg{
+    width: 100vw;
+    height: 45vw;
+    margin-top: -5px;
+}
+
+video{
+    width: 100%;
+    height: 100%;
+}
+#back{
+    /*background-image: url(back1.gif);*/
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+
+#back2{
+    /*background-image: url(back2.gif);*/
+    width: 100%;
+    height: 100%;
+    top: -10px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#message{
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    color: blue;
+    font-size: 1vw;
+
+}
+#message2{
+    position: absolute;
+    top: 20%;
+    left: 80%;
+    color: blue;
+    font-size: 1vw;
+}
+#message3{
+    position: absolute;
+    top: 35%;
+    left: 60%;
+    color: blue;
+    font-size: 1vw;
+}
+#message4{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    color: blue;
+    font-size: 1vw;
+}
+#message5{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    color: blue;
+    font-size: 1vw;
+}
+#message6{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    color: blue;
+    font-size: 1vw;
+}
+#message7{
+    position: absolute;
+    top: 25%;
+    left: 90%;
+    color: blue;
+    font-size: 1vw;
+}
+#message8{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: blue;
+    font-size: 1vw;
+}
+#message9{
+    position: absolute;
+    top: 55%;
+    left: 70%;
+    color: blue;
+    font-size: 1vw;
+}
+#message10{
+    position: absolute;
+    top: 75%;
+    left: 40%;
+    color: blue;
+    font-size: 1vw;
+}
+#message11{
+    position: absolute;
+    top: 85%;
+    left: 10%;
+    color: blue;
+    font-size: 1vw;
+}
+#message12{
+    position: absolute;
+    top: 95%;
+    left: 60%;
+    color: blue;
+    font-size: 1vw;
+}
+#message13{
+    position: absolute;
+    top: 0%;
+    left: 90%;
+    color: blue;
+    font-size: 1vw;
+}
+#message14{
+    position: absolute;
+    top: 7%;
+    left: 50%;
+    color: blue;
+    font-size: 1vw;
+}
+#message15{
+    position: absolute;
+    top: 15%;
+    left: 70%;
+    color: blue;
+    font-size: 1vw;
+}
+#message16{
+    position: absolute;
+    top: 25%;
+    left: 20%;
+    color: blue;
+    font-size: 1vw;
+}
+#message17{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    color: blue;
+    font-size: 1vw;
+}
+#message18{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: blue;
+    font-size: 1vw;
+}
+#message19{
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    color: blue;
+    font-size: 1vw;
+}
+#message20{
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    color: blue;
+    font-size: 1vw;
+}
+#message21{
+    position: absolute;
+    top: 70%;
+    left: 60%;
+    color: blue;
+    font-size: 1vw;
+}
+#message22{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    color: blue;
+    font-size: 1vw;
+}
+#message23{
+    position: absolute;
+    top: 90%;
+    left: 90%;
+    color: blue;
+    font-size: 1vw;
+}
+#message24{
+    position: absolute;
+    top: 0%;
+    left: 15%;
+    color: blue;
+    font-size: 1vw;
+}
+#message25{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    color: blue;
+    font-size: 1vw;
+}
+#message26{
+    position: absolute;
+    top: 12%;
+    left: 80%;
+    color: blue;
+    font-size: 1vw;
+}
+#message27{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    color: blue;
+    font-size: 1vw;
+}
+#message28{
+    position: absolute;
+    top: 28%;
+    left: 65%;
+    color: blue;
+    font-size: 1vw;
+}
+#message29{
+    position: absolute;
+    top: 35%;
+    left: 10%;
+    color: blue;
+    font-size: 1vw;
+}
+#message30{
+    position: absolute;
+    top: 42%;
+    left: 55%;
+    color: blue;
+    font-size: 1vw;
+}
+#message31{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    color: blue;
+    font-size: 1vw;
+}
+#message32{
+    position: absolute;
+    top: 60%;
+    left: 90%;
+    color: blue;
+    font-size: 1vw;
+}
+#message33{
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    color: blue;
+    font-size: 1vw;
+}
+#message34{
+    position: absolute;
+    top: 75%;
+    left: 10%;
+    color: blue;
+    font-size: 1vw;
+}
+#message35{
+    position: absolute;
+    top: 83%;
+    left: 75%;
+    color: blue;
+    font-size: 1vw;
+}
+#message36{
+    position: absolute;
+    top: 85%;
+    left: 40%;
+    color: blue;
+    font-size: 1vw;
+}
+#message37{
+    position: absolute;
+    top: 90%;
+    left: 85%;
+    color: blue;
+    font-size: 1vw;
+}
+#message38{
+    position: absolute;
+    top: 94%;
+    left: 20%;
+    color: blue;
+    font-size: 1vw;
+}
+#message39{
+    position: absolute;
+    top: 97%;
+    left: 0%;
+    color: blue;
+    font-size: 1vw;
+}
+
+
+
+
+.box{
+    background-image: url(error2.png);
+    width: 534px;
+    height: 192px;
+    display: none;
+    position: absolute;
+}
+
+.box2{
+    background-image: url(error1.png);
+    width: 681px;
+    height: 243px;
+    display: none;
+    position: absolute;
+}
+
